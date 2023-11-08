@@ -1,0 +1,7 @@
+pandas
+numpy
+Flask
+pymongo
+seaborn
+xgboost
+#-e. # it is to trigger setup.py when requirements.txt is ran directly 
