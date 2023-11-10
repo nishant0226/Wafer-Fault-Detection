@@ -4,4 +4,5 @@ Flask
 pymongo
 seaborn
 xgboost
+matplotlib
 #-e. # it is to trigger setup.py when requirements.txt is ran directly 
